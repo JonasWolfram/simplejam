@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background-color: #FFF3D0;
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
   text-align: center;
 }
 
@@ -15,7 +15,7 @@ img {
 }
 
 p {
-  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  color: #777;
 }
 
 #disqus_thread {
