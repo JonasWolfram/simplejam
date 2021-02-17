@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  color: white;
   background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
   text-align: center;
 }
@@ -20,5 +21,6 @@ p {
 
 #disqus_thread {
   margin: 2rem auto;
-  max-width: 600px;
+  max-width: 600px
+  color: white;
 }
